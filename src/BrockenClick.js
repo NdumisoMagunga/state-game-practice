@@ -22,6 +22,7 @@ class BrockenClick extends Component {
                     onClick={this.handleClick}
                 >Click Me!</button>
             </div>
+
         )
     }
 }
